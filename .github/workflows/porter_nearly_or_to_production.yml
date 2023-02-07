@@ -16,7 +16,7 @@ jobs:
       timeout-minutes: 20
       uses: porter-dev/porter-update-action@v0.1.0
       with:
-        app: nearly-or-to
+        app: nginx
         cluster: "126"
         host: https://dashboard.staging.getporter.dev
         namespace: default
