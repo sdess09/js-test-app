@@ -1,5 +1,5 @@
 apps:
   web:
-    run: node index.js
+    run: launcher node index.js
 release:
   run: printenv
