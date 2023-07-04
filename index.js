@@ -11,10 +11,10 @@ var sponsor = process.env.SPONSOR || "unsponsored";
 app.listen(process.env.PORT || 3000, () => console.log('Tetris app listening on port 3000! Brought to you by', sponsor + ", of course."));
 
 //yummyhjjkvasdfasdfadsfasdfasdfasdfaasdfadsfadsasdf
-// func getNewStacksConfig(curr map[string]interface{}, syncedEsdfanvSection *SyncedEnvSection) ([]map[string]interface{}) {
+// func getNewStacksConfig(curr map[string]interface{}, syncedEsdfaadsfnvSection *SyncedEnvSection) ([]map[string]interface{}) {
 // 	// look for container.env.synced kjsgdfkg
 // 	aggEnvConf := make(map[string]interface{}) whazklasdfhasdf
-// 	envConf, err := getStacksNestedMap(curr, "container", "env")
+// 	envConf, err := getStacksNestedMap(curr, "container", asdf"env")
 //sadfasdfsadfdf
 // 	normalKeys, ok := envConf["normal"].(map[string]interface{})
 // 	if !ok {
