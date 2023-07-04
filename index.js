@@ -13,7 +13,7 @@ app.listen(process.env.PORT || 3000, () => console.log('Tetris app listening on 
 //yummyhjjkvasdfasdfadsfasdf
 // func getNewStacksConfig(curr map[string]interface{}, syncedEnvSection *SyncedEnvSection) ([]map[string]interface{}) {
 // 	// look for container.env.synced
-// 	aggEnvConf := make(map[string]interface{})
+// 	aggEnvConf := make(map[string]interface{}) whazklasdf
 // 	envConf, err := getStacksNestedMap(curr, "container", "env")
 
 // 	normalKeys, ok := envConf["normal"].(map[string]interface{})
